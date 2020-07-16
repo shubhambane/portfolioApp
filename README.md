@@ -1,2 +1,3 @@
 # portfolioApp
-My flutter portfolio app
+My flutter portfolio app.
+A prototype.
