@@ -1,4 +1,5 @@
 # portfolioApp
+Apk, Ipa & source code releasing soon
 A prototype flutter portfolio app.
 
 ![](images/bane1.png)
